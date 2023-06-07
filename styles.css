@@ -1,0 +1,10 @@
+.grid-style {
+    background-color: white;  
+}
+
+#container {
+    display:flex;
+    border: medium solid black;
+    width: 900px;
+    height: 900px;
+}
